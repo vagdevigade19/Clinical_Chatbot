@@ -1,0 +1,17 @@
+# Core
+langchain>=0.2.14
+langchain-community>=0.2.10
+langchain-openai>=0.1.22
+openai>=1.51.0
+pydantic>=2.8.2
+
+# UI
+gradio>=4.44.0
+python-dotenv>=1.0.1
+
+# Optional local LLaMA-3 via Ollama
+ollama>=0.3.3
+
+# Optional utilities (simple redaction)
+regex>=2024.9.11
+
